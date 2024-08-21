@@ -2,10 +2,7 @@
   "id": "macos",
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
   "name": "MacOS",
-  "authors": [
-    "Carbocode <info@prisco.me>",
-    "Lihuen Molina <lihue.molina@gmail.com>"
-  ],
+  "author": "Carbocode <info@prisco.me>",
   "themes": [
     {
       "name": "Xcode Light",
